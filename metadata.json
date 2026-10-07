@@ -1,0 +1,6 @@
+{
+  "name": "Ember & Thyme Restaurant",
+  "description": "Artisanal wood-fired kitchen & botanical bar featuring seasonal tasting menus, hearth-baked pinsas, and direct WhatsApp ordering and table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
